@@ -1,0 +1,1 @@
+This repository contains a simple C program demonstrating an uncommon but potentially problematic pointer-related bug. The bug arises from improper handling of pointer dereferencing which leads to unexpected changes in the value of a variable.  The solution provides a corrected version, highlighting the importance of careful pointer manipulation in C.
